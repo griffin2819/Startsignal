@@ -1,0 +1,66 @@
+# Put this file in your repo at: .github/workflows/weekly-report.yml
+#
+# Every Tuesday and Wednesday morning it:
+#   1. grades last week's flags against the newest games (scorecard.csv)
+#   2. builds the new report (report.json, players.json, report_week<N>.md)
+#   3. commits the results, which updates your site if it's hosted on GitHub Pages
+#
+# You can also run it by hand: repo > Actions > Weekly report > Run workflow.
+
+name: Weekly report
+
+on:
+  schedule:
+    # 14:00 UTC = 8am Central. Monday Night Football is over and nflverse has
+    # usually published by then. Wednesday is a backup if Tuesday's data was late.
+    - cron: "0 14 * * 2"
+    - cron: "0 14 * * 3"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-report
+  cancel-in-progress: false
+
+env:
+  SEASON: "2026"   # change this each year
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install nflreadpy pandas pyarrow
+
+      - name: Grade last week's flags
+        run: |
+          if [ -f scorecard.csv ]; then
+            python nfl_report.py --season "$SEASON" --grade
+          else
+            echo "No scorecard yet, skipping grading."
+          fi
+
+      - name: Build this week's report
+        run: python nfl_report.py --season "$SEASON"
+
+      - name: Commit results
+        run: |
+          git config user.name "weekly-report-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add report.json players.json scorecard.csv report_week*.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed, nothing to commit."
+          else
+            git commit -m "Weekly report update"
+            git push
+          fi
