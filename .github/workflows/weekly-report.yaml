@@ -16,7 +16,10 @@ on:
     - cron: "0 14 * * 2"
     - cron: "0 14 * * 3"
   workflow_dispatch:
-
+  push:
+    paths:
+      - "nfl_report.py"
+      - ".github/workflows/weekly-report.yaml"
 permissions:
   contents: write
 
