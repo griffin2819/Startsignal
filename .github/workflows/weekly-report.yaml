@@ -6,7 +6,7 @@
 #   3. commits the results, which updates your site if it's hosted on GitHub Pages
 #
 # You can also run it by hand: repo > Actions > Weekly report > Run workflow.
-
+#rerun
 name: Weekly report
 
 on:
