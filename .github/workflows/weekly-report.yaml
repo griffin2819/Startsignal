@@ -6,7 +6,7 @@
 #   3. commits the results, which updates your site if it's hosted on GitHub Pages
 #
 # You can also run it by hand: repo > Actions > Weekly report > Run workflow.
-
+#rerun
 name: Weekly report
 
 on:
@@ -37,7 +37,6 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: pip
 
       - name: Install dependencies
         run: pip install nflreadpy pandas pyarrow
