@@ -10,7 +10,7 @@ season,week,signal,player_id,player,pts_base,next_pts,hit
 2026,8,Target-share risers,00-0033921,Chris Godwin Jr.,7.73,,
 2026,8,Target-share risers,00-0040126,Colston Loveland,7.08,,
 2026,8,Target-share risers,00-0036358,CeeDee Lamb,21.85,,
-2026,8,Target-share risers,00-0034975,Justice Hill,4.85,,
+2026,8,Target-share risers,00-0034975,Justice Hill,4.85,18.200000000000003,1.0
 2026,8,Target-share risers,00-0036555,Chuba Hubbard,19.62,,
 2026,8,"Buy-low (heavy usage, low production)",00-0040878,Mike Washington Jr.,4.48,,
 2026,8,"Buy-low (heavy usage, low production)",00-0040198,Ollie Gordon II,12.0,,
@@ -30,3 +30,8 @@ season,week,signal,player_id,player,pts_base,next_pts,hit
 2026,8,Usage fallers,00-0030279,Keenan Allen,10.94,,
 2026,8,Usage fallers,00-0039065,Sam LaPorta,15.32,,
 2026,8,Usage fallers,00-0033110,Tyler Higbee,10.12,,
+2026,9,Usage risers (more touches + targets),00-0034975,Justice Hill,5.06,,
+2026,9,Target-share risers,00-0034975,Justice Hill,5.06,,
+2026,9,Sell-high (TD-driven production),00-0040719,Bhayshul Tuten,14.73,,
+2026,9,Usage fallers,00-0032764,Derrick Henry,17.53,,
+2026,9,Usage fallers,00-0038935,Brenton Strange,9.98,,

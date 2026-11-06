@@ -1,1 +1,1 @@
-{"season": 2026, "flags": 31, "graded": 0, "overall": {"n": 0, "hits": 0, "rate": null}, "bySignal": [], "byWeek": [], "misses": []}
+{"season": 2026, "flags": 31, "graded": 1, "overall": {"n": 1, "hits": 1, "rate": 1.0}, "bySignal": [{"n": 1, "hits": 1, "rate": 1.0, "signal": "Target-share risers", "avgDelta": 13.4}], "byWeek": [{"n": 1, "hits": 1, "rate": 1.0, "week": 8}], "misses": []}
