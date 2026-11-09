@@ -54,6 +54,7 @@ jobs:
         run: python nfl_report.py --season "$SEASON"
 
       - name: Create newsletter draft (Buttondown)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule != '0 14 * * 1'
         continue-on-error: true
         env:
           BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
