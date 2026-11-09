@@ -13,6 +13,7 @@ on:
   schedule:
     # 14:00 UTC = 8am Central. Monday Night Football is over and nflverse has
     # usually published by then. Wednesday is a backup if Tuesday's data was late.
+    - cron: "0 14 * * 1"
     - cron: "0 14 * * 2"
     - cron: "0 14 * * 3"
   workflow_dispatch:
