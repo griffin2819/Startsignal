@@ -1,59 +1,59 @@
-season,week,signal,player_id,player,pts_base,next_pts,hit
-2026,8,Usage risers (more touches + targets),00-0036919,Kenny Gainwell,5.03,10.600000000000001,1.0
-2026,8,Usage risers (more touches + targets),00-0040198,Ollie Gordon II,12.0,7.4,0.0
-2026,8,Usage risers (more touches + targets),00-0035261,Tony Pollard,8.55,,
-2026,8,Usage risers (more touches + targets),00-0036900,Ja'Marr Chase,15.98,31.5,1.0
-2026,8,Usage risers (more touches + targets),00-0041037,Denzel Boston,11.92,15.8,1.0
-2026,8,Usage risers (more touches + targets),00-0040867,Makai Lemon,5.03,12.100000000000001,1.0
-2026,8,Usage risers (more touches + targets),00-0040126,Colston Loveland,7.08,9.4,1.0
-2026,8,Usage risers (more touches + targets),00-0040663,Harold Fannin Jr.,8.93,12.2,1.0
-2026,8,Target-share risers,00-0033921,Chris Godwin Jr.,7.73,4.800000000000001,0.0
-2026,8,Target-share risers,00-0040126,Colston Loveland,7.08,9.4,1.0
-2026,8,Target-share risers,00-0036358,CeeDee Lamb,21.85,33.5,1.0
-2026,8,Target-share risers,00-0034975,Justice Hill,4.85,18.200000000000003,1.0
-2026,8,Target-share risers,00-0036555,Chuba Hubbard,19.62,13.600000000000001,0.0
-2026,8,"Buy-low (heavy usage, low production)",00-0040878,Mike Washington Jr.,4.48,-0.30000000000000004,0.0
-2026,8,"Buy-low (heavy usage, low production)",00-0040198,Ollie Gordon II,12.0,7.4,0.0
-2026,8,"Buy-low (heavy usage, low production)",00-0038134,Kenneth Walker III,27.6,36.3,1.0
-2026,8,"Buy-low (heavy usage, low production)",00-0036997,Javonte Williams,18.17,22.4,1.0
-2026,8,"Buy-low (heavy usage, low production)",00-0040667,Matthew Golden,16.78,32.400000000000006,1.0
-2026,8,Sell-high (TD-driven production),00-0036410,Tee Higgins,15.06,20.2,0.0
-2026,8,Sell-high (TD-driven production),00-0037263,Tyler Allgeier,6.68,6.6000000000000005,1.0
-2026,8,Sell-high (TD-driven production),00-0035261,Tony Pollard,8.55,,
-2026,8,Sell-high (TD-driven production),00-0040735,Luther Burden III,12.22,20.700000000000003,0.0
-2026,8,Sell-high (TD-driven production),00-0037240,Jameson Williams,11.52,5.0,1.0
-2026,8,Usage fallers,00-0033293,Aaron Jones,14.04,,
-2026,8,Usage fallers,00-0040122,Ashton Jeanty,16.73,7.0,1.0
-2026,8,Usage fallers,00-0036158,J.K. Dobbins,8.28,3.2,1.0
-2026,8,Usage fallers,00-0039491,Jalen Coker,16.98,6.6,1.0
-2026,8,Usage fallers,00-0037247,George Pickens,13.63,,
-2026,8,Usage fallers,00-0030279,Keenan Allen,10.94,6.6,1.0
-2026,8,Usage fallers,00-0039065,Sam LaPorta,15.32,7.2,1.0
-2026,8,Usage fallers,00-0033110,Tyler Higbee,10.12,2.3,1.0
-2026,9,Usage risers (more touches + targets),00-0041496,Jonah Coleman,7.9,,
-2026,9,Usage risers (more touches + targets),00-0036919,Kenny Gainwell,5.57,,
-2026,9,Usage risers (more touches + targets),00-0040878,Mike Washington Jr.,4.23,,
-2026,9,Usage risers (more touches + targets),00-0036900,Ja'Marr Chase,16.18,,
-2026,9,Usage risers (more touches + targets),00-0040024,Darius Cooper,6.94,,
-2026,9,Usage risers (more touches + targets),00-0040867,Makai Lemon,7.13,,
-2026,9,Target-share risers,00-0034975,Justice Hill,5.06,,
-2026,9,Target-share risers,00-0036900,Ja'Marr Chase,16.18,,
-2026,9,Target-share risers,00-0039075,Puka Nacua,22.72,,
-2026,9,Target-share risers,00-0036919,Kenny Gainwell,5.57,,
-2026,9,Target-share risers,00-0040024,Darius Cooper,6.94,,
-2026,9,"Buy-low (heavy usage, low production)",00-0040878,Mike Washington Jr.,4.23,,
-2026,9,"Buy-low (heavy usage, low production)",00-0040198,Ollie Gordon II,13.06,,
-2026,9,"Buy-low (heavy usage, low production)",00-0036997,Javonte Williams,18.64,,
-2026,9,"Buy-low (heavy usage, low production)",00-0040784,Quinshon Judkins,13.28,,
-2026,9,"Buy-low (heavy usage, low production)",00-0040666,Omarion Hampton,9.58,,
-2026,9,Sell-high (TD-driven production),00-0036410,Tee Higgins,17.02,,
-2026,9,Sell-high (TD-driven production),00-0041013,Emmett Johnson,4.35,,
-2026,9,Sell-high (TD-driven production),00-0039338,Brock Bowers,19.1,,
-2026,9,Sell-high (TD-driven production),00-0040719,Bhayshul Tuten,14.73,,
-2026,9,Sell-high (TD-driven production),00-0036900,Ja'Marr Chase,16.18,,
-2026,9,Usage fallers,00-0040122,Ashton Jeanty,17.43,,
-2026,9,Usage fallers,00-0036223,Jonathan Taylor,19.64,,
-2026,9,Usage fallers,00-0032764,Derrick Henry,17.53,,
-2026,9,Usage fallers,00-0036613,Jaylen Waddle,9.13,,
-2026,9,Usage fallers,00-0038935,Brenton Strange,9.98,,
-2026,9,Usage fallers,00-0037744,Trey McBride,18.6,,
+season,week,signal,player_id,player,pts_base,next_pts,hit,pts_season,hit_base,rule
+2026,8,Usage risers (more touches + targets),00-0036919,Kenny Gainwell,5.03,10.600000000000001,1.0,6.625,1.0,v2
+2026,8,Usage risers (more touches + targets),00-0040198,Ollie Gordon II,12.0,7.4,0.0,12.033333333333333,0.0,v2
+2026,8,Usage risers (more touches + targets),00-0035261,Tony Pollard,8.55,,,14.5625,,v2
+2026,8,Usage risers (more touches + targets),00-0036900,Ja'Marr Chase,15.98,31.5,1.0,18.314285714285717,1.0,v2
+2026,8,Usage risers (more touches + targets),00-0041037,Denzel Boston,11.92,15.8,1.0,10.8625,1.0,v2
+2026,8,Usage risers (more touches + targets),00-0040867,Makai Lemon,5.03,12.100000000000001,1.0,7.7,1.0,v2
+2026,8,Usage risers (more touches + targets),00-0040126,Colston Loveland,7.08,9.4,1.0,9.237499999999999,1.0,v2
+2026,8,Usage risers (more touches + targets),00-0040663,Harold Fannin Jr.,8.93,12.2,1.0,11.2625,1.0,v2
+2026,8,Target-share risers,00-0033921,Chris Godwin Jr.,7.73,4.800000000000001,0.0,6.6375,0.0,v2
+2026,8,Target-share risers,00-0040126,Colston Loveland,7.08,9.4,1.0,9.237499999999999,1.0,v2
+2026,8,Target-share risers,00-0036358,CeeDee Lamb,21.85,33.5,1.0,21.037499999999998,1.0,v2
+2026,8,Target-share risers,00-0034975,Justice Hill,4.85,18.200000000000003,1.0,5.3625,1.0,v2
+2026,8,Target-share risers,00-0036555,Chuba Hubbard,19.62,13.600000000000001,0.0,19.0,0.0,v2
+2026,8,"Buy-low (heavy usage, low production)",00-0040878,Mike Washington Jr.,4.48,-0.30000000000000004,0.0,4.737500000000001,0.0,v2
+2026,8,"Buy-low (heavy usage, low production)",00-0040198,Ollie Gordon II,12.0,7.4,0.0,12.033333333333333,0.0,v2
+2026,8,"Buy-low (heavy usage, low production)",00-0038134,Kenneth Walker III,27.6,36.3,1.0,22.87142857142857,1.0,v2
+2026,8,"Buy-low (heavy usage, low production)",00-0036997,Javonte Williams,18.17,22.4,1.0,17.150000000000002,1.0,v2
+2026,8,"Buy-low (heavy usage, low production)",00-0040667,Matthew Golden,16.78,32.400000000000006,1.0,16.4375,1.0,v2
+2026,8,Sell-high (TD-driven production),00-0036410,Tee Higgins,15.06,20.2,0.0,19.942857142857143,0.0,v2
+2026,8,Sell-high (TD-driven production),00-0037263,Tyler Allgeier,6.68,6.6000000000000005,1.0,10.5125,1.0,v2
+2026,8,Sell-high (TD-driven production),00-0035261,Tony Pollard,8.55,,,14.5625,,v2
+2026,8,Sell-high (TD-driven production),00-0040735,Luther Burden III,12.22,20.700000000000003,0.0,14.450000000000001,0.0,v2
+2026,8,Sell-high (TD-driven production),00-0037240,Jameson Williams,11.52,5.0,1.0,14.385714285714288,1.0,v2
+2026,8,Usage fallers,00-0033293,Aaron Jones,14.04,,,11.4,,v2
+2026,8,Usage fallers,00-0040122,Ashton Jeanty,16.73,7.0,1.0,16.5375,1.0,v2
+2026,8,Usage fallers,00-0036158,J.K. Dobbins,8.28,3.2,1.0,7.4125,1.0,v2
+2026,8,Usage fallers,00-0039491,Jalen Coker,16.98,6.6,1.0,13.566666666666665,1.0,v2
+2026,8,Usage fallers,00-0037247,George Pickens,13.63,,,13.0375,,v2
+2026,8,Usage fallers,00-0030279,Keenan Allen,10.94,6.6,1.0,10.642857142857142,1.0,v2
+2026,8,Usage fallers,00-0039065,Sam LaPorta,15.32,7.2,1.0,12.27142857142857,1.0,v2
+2026,8,Usage fallers,00-0033110,Tyler Higbee,10.12,2.3,1.0,8.057142857142855,1.0,v2
+2026,9,Usage risers (more touches + targets),00-0041496,Jonah Coleman,7.9,,,,,
+2026,9,Usage risers (more touches + targets),00-0036919,Kenny Gainwell,5.57,,,,,
+2026,9,Usage risers (more touches + targets),00-0040878,Mike Washington Jr.,4.23,,,,,
+2026,9,Usage risers (more touches + targets),00-0036900,Ja'Marr Chase,16.18,,,,,
+2026,9,Usage risers (more touches + targets),00-0040024,Darius Cooper,6.94,,,,,
+2026,9,Usage risers (more touches + targets),00-0040867,Makai Lemon,7.13,,,,,
+2026,9,Target-share risers,00-0034975,Justice Hill,5.06,,,,,
+2026,9,Target-share risers,00-0036900,Ja'Marr Chase,16.18,,,,,
+2026,9,Target-share risers,00-0039075,Puka Nacua,22.72,,,,,
+2026,9,Target-share risers,00-0036919,Kenny Gainwell,5.57,,,,,
+2026,9,Target-share risers,00-0040024,Darius Cooper,6.94,,,,,
+2026,9,"Buy-low (heavy usage, low production)",00-0040878,Mike Washington Jr.,4.23,,,,,
+2026,9,"Buy-low (heavy usage, low production)",00-0040198,Ollie Gordon II,13.06,,,,,
+2026,9,"Buy-low (heavy usage, low production)",00-0036997,Javonte Williams,18.64,,,,,
+2026,9,"Buy-low (heavy usage, low production)",00-0040784,Quinshon Judkins,13.28,,,,,
+2026,9,"Buy-low (heavy usage, low production)",00-0040666,Omarion Hampton,9.58,,,,,
+2026,9,Sell-high (TD-driven production),00-0036410,Tee Higgins,17.02,,,,,
+2026,9,Sell-high (TD-driven production),00-0041013,Emmett Johnson,4.35,,,,,
+2026,9,Sell-high (TD-driven production),00-0039338,Brock Bowers,19.1,,,,,
+2026,9,Sell-high (TD-driven production),00-0040719,Bhayshul Tuten,14.73,,,,,
+2026,9,Sell-high (TD-driven production),00-0036900,Ja'Marr Chase,16.18,,,,,
+2026,9,Usage fallers,00-0040122,Ashton Jeanty,17.43,,,,,
+2026,9,Usage fallers,00-0036223,Jonathan Taylor,19.64,,,,,
+2026,9,Usage fallers,00-0032764,Derrick Henry,17.53,,,,,
+2026,9,Usage fallers,00-0036613,Jaylen Waddle,9.13,,,,,
+2026,9,Usage fallers,00-0038935,Brenton Strange,9.98,,,,,
+2026,9,Usage fallers,00-0037744,Trey McBride,18.6,,,,,
