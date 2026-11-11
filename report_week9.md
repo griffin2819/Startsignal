@@ -12,7 +12,7 @@ _Compares the last 2 games to each player's earlier baseline. Data: nflverse (CC
 ## Target-share risers
 - **Justice Hill** (RB, BAL): +16.8% target share; 12.9 PPR/g vs 5.1 before. Target share up from 8% to 25%. Snap share 43% to 50%. Next: vs LAC (#12 defense vs RB).
 - **Ja'Marr Chase** (WR, CIN): +15.8% target share; 31.3 PPR/g vs 16.2 before. Target share up from 23% to 38%. Snap share 80% to 90%. Next: vs PIT (#24 defense vs WR).
-- **Puka Nacua** (WR, LA): +15.5% target share; 30.0 PPR/g vs 22.7 before. Target share up from 32% to 47%. Snap share 84% to 94%. **Practice: did not practice (Not injury related - resting player).** Next: vs ARI (#15 defense vs WR).
+- **Puka Nacua** (WR, LA): +15.5% target share; 30.0 PPR/g vs 22.7 before. Target share up from 32% to 47%. Snap share 84% to 94%. Next: vs ARI (#15 defense vs WR).
 - **Kenny Gainwell** (RB, TB): +13.6% target share; 12.3 PPR/g vs 5.6 before. Target share up from 8% to 22%. Snap share 36% to 44%. Next: week 11, vs DET (#30 defense vs RB).
 - **Darius Cooper** (WR, PHI): +13.1% target share; 4.2 PPR/g vs 6.9 before. Target share up from 8% to 21%. Snap share 56% to 94%. Next: week 11, vs PIT (#24 defense vs WR).
 
@@ -27,7 +27,7 @@ _Compares the last 2 games to each player's earlier baseline. Data: nflverse (CC
 - **Tee Higgins** (WR, CIN): +14.5 pts/g vs usage; 28.9 PPR/g vs 17.0 before. Scoring about 14 PPR points a game more than that usage usually brings, with 4 touchdowns in the last 2 games. Snap share 79% to 78%. Next: vs PIT (#24 defense vs WR).
 - **Emmett Johnson** (RB, KC): +12.7 pts/g vs usage; 17.4 PPR/g vs 4.4 before. Scoring about 13 PPR points a game more than that usage usually brings, with 2 touchdowns in the last 2 games. Snap share 27% to 24%. Next: vs ATL (#8 defense vs RB).
 - **Brock Bowers** (TE, LV): +8.2 pts/g vs usage; 25.2 PPR/g vs 19.1 before. Scoring about 8 PPR points a game more than that usage usually brings, with 3 touchdowns in the last 2 games. Snap share 83% to 93%. Next: vs SEA (#24 defense vs TE).
-- **Bhayshul Tuten** (RB, JAX): +7.7 pts/g vs usage; 19.4 PPR/g vs 14.7 before. Scoring about 8 PPR points a game more than that usage usually brings, with 3 touchdowns in the last 2 games. Snap share 56% to 43%. **Questionable (Ankle).** Next: vs TEN (#14 defense vs RB).
+- **Bhayshul Tuten** (RB, JAX): +7.7 pts/g vs usage; 19.4 PPR/g vs 14.7 before. Scoring about 8 PPR points a game more than that usage usually brings, with 3 touchdowns in the last 2 games. Snap share 56% to 43%. Next: vs TEN (#14 defense vs RB).
 - **Ja'Marr Chase** (WR, CIN): +7.7 pts/g vs usage; 31.3 PPR/g vs 16.2 before. Scoring about 8 PPR points a game more than that usage usually brings, with 2 touchdowns in the last 2 games. Usage is also up (8 to 14 per game), so the role looks real, but the touchdown pace won't hold. Snap share 80% to 90%. Next: vs PIT (#24 defense vs WR).
 
 ## Usage fallers
