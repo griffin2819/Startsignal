@@ -23,21 +23,21 @@ _Compares the last 2 games to each player's earlier baseline. Data: nflverse (CC
 - **Kyren Williams** (RB, LA): -7.1 pts/g vs usage; 7.2 PPR/g vs 18.8 before. Getting 18 carries + targets a game but scoring about 7 PPR points a game less than that usage usually brings. Snap share 67% to 58%. Next: week 12, vs GB (#7 defense vs RB).
 - **Devin Singletary** (RB, NYG): -6.8 pts/g vs usage; 3.1 PPR/g vs 8.4 before. Getting 12 carries + targets a game but scoring about 7 PPR points a game less than that usage usually brings. Snap share 33% to 50%. Next: vs JAX (#28 defense vs RB).
 - **Tyler Allgeier** (RB, ARI): -6.3 pts/g vs usage; 4.0 PPR/g vs 10.5 before. Getting 13 carries + targets a game but scoring about 6 PPR points a game less than that usage usually brings. Snap share 52% to 71%. Next: vs KC (#26 defense vs RB).
-- **Woody Marks** (RB, HOU): -5.9 pts/g vs usage; 8.0 PPR/g vs 8.9 before. Getting 18 carries + targets a game but scoring about 6 PPR points a game less than that usage usually brings. Snap share 62% to 56%. Next: vs IND (#6 defense vs RB).
+- **Woody Marks** (RB, HOU): -5.9 pts/g vs usage; 8.0 PPR/g vs 8.9 before. Getting 18 carries + targets a game but scoring about 6 PPR points a game less than that usage usually brings. Snap share 62% to 56%. **Practice: did not practice (Concussion).** Next: vs IND (#6 defense vs RB).
 
 ## Sell-high (TD-driven production)
 - **Christian McCaffrey** (RB, SF): +19.5 pts/g vs usage; 34.5 PPR/g vs 20.6 before. Scoring about 20 PPR points a game more than that usage usually brings, with 5 touchdowns in the last 2 games. Snap share 69% to 64%. Next: vs MIN (#29 defense vs RB).
 - **Kayshon Boutte** (WR, HOU): +9.2 pts/g vs usage; 14.2 PPR/g vs 4.9 before. Scoring about 9 PPR points a game more than that usage usually brings, with 2 touchdowns in the last 2 games. Snap share 54% to 52%. Next: vs IND (#22 defense vs WR).
 - **Jahmyr Gibbs** (RB, DET): +8.7 pts/g vs usage; 28.8 PPR/g vs 28.0 before. Scoring about 9 PPR points a game more than that usage usually brings, with 3 touchdowns in the last 2 games. Snap share 78% to 68%. Next: vs TB (#32 defense vs RB).
-- **Amon-Ra St. Brown** (WR, DET): +8.5 pts/g vs usage; 21.2 PPR/g vs 20.1 before. Scoring about 8 PPR points a game more than that usage usually brings, with 2 touchdowns in the last 2 games. Snap share 84% to 70%. **Questionable (Rib).** Next: vs TB (#21 defense vs WR).
+- **Amon-Ra St. Brown** (WR, DET): +8.5 pts/g vs usage; 21.2 PPR/g vs 20.1 before. Scoring about 8 PPR points a game more than that usage usually brings, with 2 touchdowns in the last 2 games. Snap share 84% to 70%. Next: vs TB (#21 defense vs WR).
 - **Emmett Johnson** (RB, KC): +8.4 pts/g vs usage; 22.2 PPR/g vs 7.3 before. Scoring about 8 PPR points a game more than that usage usually brings, with 3 touchdowns in the last 2 games. Usage is also up (5 to 18 per game), so the role looks real, but the touchdown pace won't hold. Snap share 26% to 59%. Next: vs ARI (#14 defense vs RB).
 
 ## Usage fallers
 - **Aaron Jones** (RB, MIN): -9.7 opps/g; 7.8 PPR/g vs 11.4 before. Carries + targets down from 19 to 9 per game. Snap share 62% to 39%. Next: vs SF (#22 defense vs RB).
 - **Braelon Allen** (RB, NYJ): -7.2 opps/g; 5.5 PPR/g vs 12.4 before. Carries + targets down from 17 to 10 per game. Snap share 69% to 54%. Next: vs LAC (#12 defense vs RB).
-- **Rhamondre Stevenson** (RB, NE): -6.9 opps/g; 8.2 PPR/g vs 12.4 before. Carries + targets down from 15 to 8 per game. Snap share 64% to 52%. **Questionable (Knee).** Next: week 12, vs LAC (#12 defense vs RB).
+- **Rhamondre Stevenson** (RB, NE): -6.9 opps/g; 8.2 PPR/g vs 12.4 before. Carries + targets down from 15 to 8 per game. Snap share 64% to 52%. Next: week 12, vs LAC (#12 defense vs RB).
 - **Malik Washington** (WR, MIA): -4.1 opps/g; 8.7 PPR/g vs 10.2 before. Targets down from 8 to 4 per game. Snap share 83% to 82%. Next: vs BUF (#10 defense vs WR).
 - **Devaughn Vele** (WR, NO): -3.9 opps/g; 3.6 PPR/g vs 12.3 before. Targets down from 7 to 3 per game. Snap share 92% to 90%. Next: vs CHI (#23 defense vs WR).
-- **Amon-Ra St. Brown** (WR, DET): -3.6 opps/g; 21.2 PPR/g vs 20.1 before. Targets down from 11 to 8 per game. Snap share 84% to 70%. **Questionable (Rib).** Next: vs TB (#21 defense vs WR).
+- **Amon-Ra St. Brown** (WR, DET): -3.6 opps/g; 21.2 PPR/g vs 20.1 before. Targets down from 11 to 8 per game. Snap share 84% to 70%. Next: vs TB (#21 defense vs WR).
 - **Brock Bowers** (TE, LV): -4.7 opps/g; 13.1 PPR/g vs 20.6 before. Targets down from 10 to 6 per game. Snap share 83% to 60%. Next: vs DEN (#3 defense vs TE).
 - **Trey McBride** (TE, ARI): -4.2 opps/g; 10.6 PPR/g vs 18.8 before. Targets down from 11 to 6 per game. Snap share 91% to 83%. Next: vs KC (#6 defense vs TE).
