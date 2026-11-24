@@ -17,11 +17,11 @@ _Compares the last 2 games to each player's earlier baseline. Data: nflverse (CC
 - **Chimere Dike** (WR, TEN): +12.0% target share; 8.7 PPR/g vs 3.7 before. Target share up from 5% to 17%. Snap share 21% to 86%. Next: vs JAX (#18 defense vs WR).
 
 ## Buy-low (heavy usage, low production)
-- **Jordan Mason** (RB, MIN): -6.1 pts/g vs usage; 5.3 PPR/g vs 6.7 before. Getting 14 carries + targets a game but scoring about 6 PPR points a game less than that usage usually brings. Snap share 46% to 48%. Next: vs ATL (#5 defense vs RB).
+- **Jordan Mason** (RB, MIN): -6.2 pts/g vs usage; 5.3 PPR/g vs 6.7 before. Getting 14 carries + targets a game but scoring about 6 PPR points a game less than that usage usually brings. Snap share 46% to 48%. Next: vs ATL (#5 defense vs RB).
 - **Trey McBride** (TE, ARI): -6.1 pts/g vs usage; 11.8 PPR/g vs 18.1 before. Getting 10 targets a game but scoring about 6 PPR points a game less than that usage usually brings. Snap share 90% to 82%. Next: vs WAS (#2 defense vs TE).
 - **Jonathan Taylor** (RB, IND): -4.7 pts/g vs usage; 9.5 PPR/g vs 17.1 before. Getting 18 carries + targets a game but scoring about 5 PPR points a game less than that usage usually brings. Snap share 76% to 68%. Next: vs NYG (#27 defense vs RB).
 - **Justin Jefferson** (WR, MIN): -4.4 pts/g vs usage; 15.1 PPR/g vs 13.6 before. Getting 12 targets a game but scoring about 4 PPR points a game less than that usage usually brings. Snap share 83% to 86%. Next: vs ATL (#6 defense vs WR).
-- **Travis Etienne** (RB, NO): -4.0 pts/g vs usage; 7.0 PPR/g vs 10.3 before. Getting 14 carries + targets a game but scoring about 4 PPR points a game less than that usage usually brings. Snap share 50% to 38%. Next: vs CIN (#19 defense vs RB).
+- **Travis Etienne** (RB, NO): -4.1 pts/g vs usage; 7.0 PPR/g vs 10.3 before. Getting 14 carries + targets a game but scoring about 4 PPR points a game less than that usage usually brings. Snap share 50% to 38%. Next: vs CIN (#19 defense vs RB).
 
 ## Sell-high (TD-driven production)
 - **Christian McCaffrey** (RB, SF): +17.6 pts/g vs usage; 30.2 PPR/g vs 20.8 before. Scoring about 18 PPR points a game more than that usage usually brings, with 4 touchdowns in the last 2 games. Snap share 69% to 62%. Next: vs SEA (#23 defense vs RB).
@@ -35,6 +35,7 @@ _Compares the last 2 games to each player's earlier baseline. Data: nflverse (CC
 - **Jaylen Warren** (RB, PIT): -6.9 opps/g; 7.0 PPR/g vs 17.6 before. Carries + targets down from 19 to 12 per game. Snap share 72% to 53%. Next: vs DEN (#9 defense vs RB).
 - **Alvin Kamara** (RB, NO): -6.6 opps/g; 11.8 PPR/g vs 10.5 before. Carries + targets down from 11 to 4 per game. Snap share 37% to 18%. Next: vs CIN (#19 defense vs RB).
 - **Amon-Ra St. Brown** (WR, DET): -5.5 opps/g; 20.2 PPR/g vs 19.7 before. Targets down from 11 to 6 per game. Snap share 83% to 72%. Next: vs CHI (#22 defense vs WR).
+- **Tee Higgins** (WR, CIN): -3.9 opps/g; 12.0 PPR/g vs 20.0 before. Targets down from 8 to 4 per game. Snap share 78% to 87%. Next: vs NO (#25 defense vs WR).
 - **DK Metcalf** (WR, PIT): -3.1 opps/g; 8.3 PPR/g vs 9.7 before. Targets down from 8 to 5 per game. Snap share 94% to 72%. Next: vs DEN (#27 defense vs WR).
 - **Dalton Schultz** (TE, HOU): -4.4 opps/g; 5.1 PPR/g vs 8.9 before. Targets down from 6 to 2 per game. Snap share 56% to 60%. Next: vs BAL (#12 defense vs TE).
 - **Tyler Warren** (TE, IND): -3.5 opps/g; 2.8 PPR/g vs 12.0 before. Targets down from 8 to 4 per game. Snap share 87% to 81%. Next: vs NYG (#19 defense vs TE).
