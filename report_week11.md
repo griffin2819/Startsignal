@@ -12,7 +12,7 @@ _Compares the last 2 games to each player's earlier baseline. Data: nflverse (CC
 ## Target-share risers
 - **Jack Bech** (WR, LV): +16.1% target share; 12.9 PPR/g vs 5.9 before. Target share up from 9% to 25%. Snap share 43% to 68%. Next: vs CLE (#19 defense vs WR).
 - **Tai Felton** (WR, MIN): +15.9% target share; 8.2 PPR/g vs 1.8 before. Target share up from 6% to 22%. Snap share 46% to 79%. Next: vs ATL (#6 defense vs WR).
-- **Anthony Gould** (WR, IND): +14.8% target share; 5.8 PPR/g vs 0.4 before. Target share up from 1% to 15%. Snap share 0% to 56%. **Questionable (Toe).** Next: vs NYG (#14 defense vs WR).
+- **Anthony Gould** (WR, IND): +14.8% target share; 5.8 PPR/g vs 0.4 before. Target share up from 1% to 15%. Snap share 0% to 56%. Next: vs NYG (#14 defense vs WR).
 - **George Pickens** (WR, DAL): +12.4% target share; 33.6 PPR/g vs 13.0 before. Target share up from 21% to 34%. Snap share 78% to 82%. Next: vs PHI (#3 defense vs WR).
 - **Chimere Dike** (WR, TEN): +12.0% target share; 8.7 PPR/g vs 3.7 before. Target share up from 5% to 17%. Snap share 21% to 86%. Next: vs JAX (#18 defense vs WR).
 
